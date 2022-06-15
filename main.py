@@ -21,7 +21,6 @@ print(f"""
                                                                                                                                   
 {Fore.WHITE}
 - Proxy Checker v1.0
-- Author: deTH           
 
 Supported Proxy Types:
 
